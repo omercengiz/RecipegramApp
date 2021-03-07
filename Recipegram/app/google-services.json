@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032582029432",
+    "project_id": "recipegramdb",
+    "storage_bucket": "recipegramdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032582029432:android:d343662585be4f95b0cd8d",
+        "android_client_info": {
+          "package_name": "com.omercengiz.recipegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032582029432-a1fuu211k15020gcd32ktk44a6ervjvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1lZPqCLC9YRyWvRGNZ1TLnEbtSiQln_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032582029432-a1fuu211k15020gcd32ktk44a6ervjvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
